@@ -1,1 +1,4 @@
-"# weather-terminal-app" 
+- One of my first projects using Node.js.
+- The project gets the weather for the city you enter in the console.
+- You need to create a .env file with an OpenWeather API key and a Mapbox token.
+- To run it, type 'node index' in the terminal.
